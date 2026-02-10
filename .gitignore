@@ -1,0 +1,10 @@
+build/
+CMakeFiles/
+hello_cpp
+robot
+#不忽略目录
+!*/ 
+#不忽略有后缀名的文件
+!*.* 
+!*.cpp
+!*.h
